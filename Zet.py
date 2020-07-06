@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # coded by zettamus
-# reedit & translate to indonesia by Yuda
+# reedit & translate to indonesia by Maruf
 import os
 import re 
 import time
@@ -21,7 +21,7 @@ check = 0
 result = 0
 def masuk():
         print('\n\n\t\t≺ \033[1;36mFACEBOOK LOGIN\033[0m ≻\n\n')
-        print("Bingung ? cek Channel 8BITE GAMING")
+        print("Bingung ? cek Amal Anda")
         try:
                 cek = open("cookies").read()
         except FileNotFoundError:
@@ -158,7 +158,7 @@ if __name__ == '__main__':
                 print('\033[1;37m/____\___|\__|\__\__,_|_| |_| |_|\__,_|___/')
                 print('\033[1;34m=========================')
                 print('\033[1;33mAuthor: \033[1;36mZettamus')
-                print('\033[1;33mRecode: \033[1;36mYuda Gant')
+                print('\033[1;33mRecode: \033[1;36mMaruf Ghoib')
                 print('\033[1;34m=========================')
                 print('\033[1;31m[\033[1;33m1\033[1;31m] \033[1;36mDaftar Teman')
                 print('\033[1;31m[\033[1;33m2\033[1;31m] \033[1;36mDari Like ')
